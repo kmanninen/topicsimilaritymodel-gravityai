@@ -1,7 +1,7 @@
 import requests
 import json
 from urllib.parse import urljoin
-class topicsimilaritymodel_gravityai:
+class Model:
     def __init__(self, URL):
         self.base_url = URL
 
