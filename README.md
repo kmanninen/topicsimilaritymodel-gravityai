@@ -1,4 +1,4 @@
-# topicsimilaritymodel-gravityai
+# topicsimilaritymodel_gravityai
 Library to connect to the Topic Similarity Model on [Gravity AI](https://www.gravity-ai.com)
 
 ## Installation:
